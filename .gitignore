@@ -1,0 +1,55 @@
+# ========================
+# Node.js dependencies
+# ========================
+node_modules/*         
+ 
+# ========================
+# Playwright artifacts
+# ========================
+test-results/           
+playwright-report/      
+*.log                   
+ 
+# ========================
+# VSCode settings (optional)
+# ========================
+.vscode/               )
+ 
+# ========================
+# Environment files
+# ========================
+.env                    
+.env.*                  
+ 
+# ========================
+# OS-specific files
+# ========================
+.DS_Store              
+Thumbs.db             
+ 
+# ========================
+# Compiled output (if using TypeScript)
+# ========================
+dist/                  
+build/                 
+*.tsbuildinfo           
+ 
+# ========================
+# Coverage reports
+# ========================
+coverage/               
+ 
+# ========================
+# Yarn/PNPM/NPM lock files (choose based on package manager)
+# ========================
+package-lock.json       
+yarn.lock               
+pnpm-lock.yaml          
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+
