@@ -1,0 +1,28 @@
+{
+  "name": "playwrhomework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fsevents": "^2.3.2",
+    "playwright": "^1.54.1",
+    "playwright-core": "^1.54.1",
+    "undici-types": "^7.8.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuollena/playwrhomework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuollena/playwrhomework/issues"
+  },
+  "homepage": "https://github.com/kuollena/playwrhomework#readme"
+}
