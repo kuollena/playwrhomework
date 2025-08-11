@@ -17,8 +17,6 @@ playwright-report/
 # ========================
 # Environment files
 # ========================
-.env                    
-.env.*                  
 
 # ========================
 # OS-specific files
